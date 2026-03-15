@@ -43,34 +43,48 @@
 
 ## `$ cat skills.json`
 
-> Legend: ✅ learned at school &nbsp;|&nbsp; 🔄 actively learning &nbsp;|&nbsp; 🧪 exploring / side projects
+**Legend:**
+⬜ = learned at school &nbsp;&nbsp; 🟦 = actively learning &nbsp;&nbsp; 🟧 = exploring / side projects
 
-**Systems & Languages**
+---
+
+**Systems & Languages** ⬜
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java_OOP-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java OOP](https://img.shields.io/badge/Java_OOP-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua_🧪_(PICO--8)-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
-**Web Development**
+**Lua** 🟧 &nbsp;*(learning on PICO-8)*
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![PICO-8](https://img.shields.io/badge/PICO--8-FF004D?style=flat-square&logoColor=white)
+
+---
+
+**Web Development** 🟦 *(building confidence)*
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React_🔄-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js_🔄-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express_🔄-000000?style=flat-square&logo=express&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_🔄-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
 
 **Mobile & Game Dev**
 
-![Flutter](https://img.shields.io/badge/Flutter_🔄-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+🟦 &nbsp;
 ![Unity](https://img.shields.io/badge/Unity_(C%23)-000000?style=flat-square&logo=unity&logoColor=white)
-![PICO-8](https://img.shields.io/badge/PICO--8_🧪-FF004D?style=flat-square&logo=lexaloffle&logoColor=white)
+⬜
 
-**Design & Tools**
+---
+
+**Design & Tools** ⬜
 
 ![Figma](https://img.shields.io/badge/Figma_(self--taught)-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
