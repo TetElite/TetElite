@@ -83,9 +83,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= ទិត្យ អេលីតGTG &show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TetElite&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username= ទិត្យ អេលីតGTG &layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TetElite&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -95,7 +95,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user= ទិត្យ អេលីតGTG &theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TetElite&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
